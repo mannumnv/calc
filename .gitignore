@@ -1,5 +1,6 @@
-node_modules/
-dist/
-build/
 .envnode_modules/
 node_modules/
+dist/
+.next/
+build/
+dist/
